@@ -27,7 +27,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 votes overall.
 
-
+![image](https://github.com/awill1786/election-analysis/blob/main/analysis/Election_results1.png?raw=true)
     
 ## Challenge Overview
 The election commission has given additional tasks to complete the local congressional election audit.
