@@ -45,7 +45,9 @@ The county with largest voter turnout was Denver County with 82.8% of the vote a
 
 ![image](https://github.com/awill1786/election-analysis/blob/main/analysis/County_turnout.png?raw=true)
 
-This script can be used to talley votes for any election. With a little more modification we can also be able to see the percentage of votes each candidate received in each county.   
+This script can be used to talley votes for any election. With a little more modification we can also be able to see the percentage of votes each candidate received in each county. We could do this by altering the if statement within this script to include the counties as well.
+
+![image](https://github.com/awill1786/election-analysis/blob/main/analysis/Pypoll_code.png?raw=true)
 
 
 
